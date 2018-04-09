@@ -1,0 +1,10 @@
+C:\Users\Nick\source\repos\SWEHub\SWEHub\obj\Debug\SWEHub.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SWEHub\SWEHub\bin\SWEHub.dll.config
+C:\Users\Nick\source\repos\SWEHub\SWEHub\bin\SWEHub.dll
+C:\Users\Nick\source\repos\SWEHub\SWEHub\bin\SWEHub.pdb
+C:\Users\Nick\source\repos\SWEHub\SWEHub\bin\Newtonsoft.Json.dll
+C:\Users\Nick\source\repos\SWEHub\SWEHub\bin\Newtonsoft.Json.xml
+C:\Users\Nick\source\repos\SWEHub\SWEHub\obj\Debug\SWEHub.csproj.CopyComplete
+C:\Users\Nick\source\repos\SWEHub\SWEHub\obj\Debug\SWEHub.dll
+C:\Users\Nick\source\repos\SWEHub\SWEHub\obj\Debug\SWEHub.pdb
+C:\Users\Nick\source\repos\SWEHub\SWEHub\obj\Debug\SWEHub.csprojResolveAssemblyReference.cache
